@@ -11,3 +11,5 @@ Application of machine learning in MATLAB
 在k-means算法中，包含k-means.m和数据集testSet.txt，我们利用k-means算法来对数据集进行分类，需要注意的是这儿我们是随机k的，所以有的时候效果不是很好，如果您想得到较好的效果，可以尝试k=4
 
 特别需要注意的是，这儿的EM算法 SMO算法和k-means算法是入门级别的，不能满足您更高级的要求。SMO.m目前只支持线性可分的情况，如果您想运行这些程序，请将gaussian_compute.m或者q4_x.txt和q4_y.txt或者testSet.txt添加到您自己的路径
+
+上述的算法均在MATLAB R2014a中测试通过
