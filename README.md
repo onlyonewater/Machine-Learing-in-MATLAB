@@ -1,7 +1,7 @@
 # Machine-Learing-in-MATLAB
 Application of machine learning in MATLAB
 
-## 这个仓库目前包含了四个基本机器学习算法，分别是EM算法 SMO算法 k-means算法和GDA（高斯判别分析）
+## 这个仓库目前包含了一些基本的机器学习算法，分别是EM算法 SMO算法 k-means算法 GDA（高斯判别分析）和KNN
 
 ### 在EM算法中
 包含gaussian_compute.m和EM.m，我们利用了高斯混合模型（GMM）来对算法进行测试，我们定义了3个多元高斯分布模型，同时利用gaussian_compute.m来计算多元高斯分布的概率密度函数，最后执行EM.m来对参数进行估计
