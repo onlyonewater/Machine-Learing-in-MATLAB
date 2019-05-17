@@ -7,4 +7,6 @@ Application of machine learning in MATLAB
 
 # 上述代码均在MATLAB R2014a运行通过
 
+## 如果您想运行代码，请将数据集和.m函数添加到您自己的路径下
+
 
