@@ -1,1 +1,1 @@
-# 主要是实现了用NaiveBayes算法对垃圾邮件进行分类，Construct_word_vector.m主要是构造词向量，word_judge.m主要是进行判断是否是ham还是spam邮件，主程序是NaiveBayes.m
+# 主要是实现了用NaiveBayes算法对垃圾邮件进行分类，Construct_word_vector.m主要是构造词向量，word_judge.m主要是进行判断是否是ham还是spam邮件，主程序是NaiveBayes.m，数据集在文件夹ham和spam中
