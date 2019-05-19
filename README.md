@@ -5,8 +5,9 @@ Application of machine learning in MATLAB
 ## 1.EM算法
 ## 2.GDA算法 
 ## 3.KNN+PCA数字识别
-## 4.SMO算法
-## 5.k-means算法
+## 4.NaiveBayes算法实现垃圾邮件的分类
+## 5.SMO算法
+## 6.k-means算法
 
 ## 详情请看各个文档
 
