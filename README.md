@@ -4,8 +4,8 @@ Application of machine learning in MATLAB
 # 这个仓库目前包含了一些基本的机器学习算法，
 ## 1.EM算法
 ## 2.GDA算法 
-## 3.KNN+PCA数字识别
-## 4.NaiveBayes算法实现垃圾邮件的分类
+## 3.KNN+PCA
+## 4.NaiveBayes算法
 ## 5.SMO算法
 ## 6.k-means算法
 
