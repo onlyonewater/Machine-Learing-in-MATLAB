@@ -2,12 +2,12 @@
 Application of machine learning in MATLAB
 
 # 这个仓库目前包含了一些基本的机器学习算法，
-## 1.EM算法
-## 2.GDA算法 
+## 1.EM
+## 2.GDA
 ## 3.KNN+PCA
-## 4.NaiveBayes算法
-## 5.SMO算法
-## 6.k-means算法
+## 4.NaiveBayes
+## 5.SMO
+## 6.k-means
 
 ## 详情请看各个文档
 
