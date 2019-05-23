@@ -6,8 +6,9 @@ Application of machine learning in MATLAB
 ## 2.GDA
 ## 3.KNN+PCA
 ## 4.NaiveBayes
-## 5.SMO
-## 6.k-means
+## 5.Regression
+## 6.SMO
+## 7.k-means
 
 ## 详情请看各个文档
 
