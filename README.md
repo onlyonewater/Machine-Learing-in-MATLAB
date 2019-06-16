@@ -3,7 +3,7 @@ Application of machine learning in MATLAB
 
 # 这个仓库目前包含了一些基本的机器学习算法，
 ## 1.EM
-## 2.GDA
+## 2.GDA+LDA
 ## 3.KNN+PCA
 ## 4.NaiveBayes
 ## 5.Regression
